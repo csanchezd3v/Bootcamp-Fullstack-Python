@@ -1,7 +1,6 @@
 # Bootcamp Full Stack Python
 
 Este repositorio contiene mis proyectos, ejercicios y prácticas del bootcamp Full Stack Python. 
-Incluye:
 
 ## 📁 Contenidos
 - Fundamentos del Frontend (HTML, CSS y JavaScript)
